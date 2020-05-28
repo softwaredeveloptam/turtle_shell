@@ -1,0 +1,9 @@
+[package]
+name = "turtle_shell"
+version = "0.1.0"
+authors = ["softwaredeveloptam <39637317+softwaredeveloptam@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
