@@ -30,3 +30,14 @@ This command will create a **main.exe** in which you can double click to load up
 * **cat** - creates a 🐱 on your Taminal display.
 * **crab** - creates a 🦀 on your Taminal display.
 * **shuntaro** - creates a Shuntaro on your Taminal display.
+
+---
+
+## Change Log
+
+* 5/29/2020 - Created the repo, added some basic functionality
+
+
+## Future Features
+
+* Make this a real usable shell for others.
