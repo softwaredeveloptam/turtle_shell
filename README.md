@@ -4,6 +4,8 @@ This was created during my time with Code Chrysalis.
 
 To Begin, git clone the repository to your computer and run the following command below.
 
+[Tutorial](https://i.imgur.com/IDN92ya.gifv)
+
 ```
 cargo run
 ```
