@@ -1,4 +1,4 @@
-# 🐢 Taminal the Turtle Shell
+# 🐢 Taminal the Turtle
 
 This was created during my time with Code Chrysalis.
 
