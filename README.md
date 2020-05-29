@@ -1,22 +1,21 @@
 # 🐢 Taminal 
+---
 
 This was created during my time with Code Chrysalis.
 
+![](https://i.imgur.com/IDN92ya.gif)
+
 To Begin, git clone the repository to your computer and run the following command below.
 
-[Tutorial](https://i.imgur.com/IDN92ya.gifv)
-
-```
-cargo run
-```
+`cargo run`
 
 It should load up the Taminal immediately from the command line. If not you can run...
 
-```
-rustc .\src\main.rs
-```
+`rustc .\src\main.rs`
 
-This command will create a "main.exe" in which you can double click to load up the terminal.
+This command will create a **main.exe** in which you can double click to load up the terminal.
+
+---
 
 ## 🗒️ Shell Commands List 
 * **cd <file path>** - allows you to move between folders and change directories according to the file path.
