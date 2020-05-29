@@ -21,7 +21,7 @@ This command will create a **main.exe** in which you can double click to load up
 ---
 
 ## 🗒️ Shell Commands List 
-* **cd <file path>** - allows you to move between folders and change directories according to the file path.
+* **cd file path** - allows you to move between folders and change directories according to the file path.
 * **cd ..** - allows you to move up one directory.
 * **mkdir <new folder name>** - allows you to create a new directory with the name inputted.
 * **ls** - lists all files and folders within a directory.
