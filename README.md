@@ -1,5 +1,4 @@
 # 🐢 Taminal 
----
 
 This was created during my time with Code Chrysalis.
 
@@ -7,11 +6,15 @@ This was created during my time with Code Chrysalis.
 
 To Begin, git clone the repository to your computer and run the following command below.
 
-`cargo run`
+```
+cargo run
+```
 
 It should load up the Taminal immediately from the command line. If not you can run...
 
-`rustc .\src\main.rs`
+```
+rustc .\src\main.rs
+```
 
 This command will create a **main.exe** in which you can double click to load up the terminal.
 
