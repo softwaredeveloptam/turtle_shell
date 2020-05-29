@@ -65,7 +65,7 @@ fn main() {
                     println!("ls - lists all files and folders within a directory.");
                     println!("cat - creates a cat on your Taminal.");
                     println!("crab - creates a crab on your Taminal.");
-                    println!("potato - creates a Mr. Potato on your Taminal.");
+                    println!("shuntaro - creates a shuntaro on your Taminal.");
                     println!("exit - exits out of turtle shell\n");
                     
                 },
